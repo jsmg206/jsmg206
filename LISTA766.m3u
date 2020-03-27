@@ -1,9 +1,8 @@
 #EXTM3U
-#EXTINF:-1,CANAL IPTVONE
-EXTINF:-1 tvg-id="" tvg-name="CANAL IPTVONE" tvg-logo="https://drive.google.com/file/d/1GB8aPQU2yFieQV7jA4i7AXnehDtJZ_M8/view" group-title="HOME",CANAL IPTVONE
-https://drive.google.com/open?id=1ZchGmk1mOIoPGyivF1JW0s8EQA-w1PvP
 
-#EXTINF:0,-Nacionales Col-
+EXTINF:-1 tvg-id="" tvg-name="CANAL IPTVONE" tvg-logo="https://drive.google.com/file/d/1GB8aPQU2yFieQV7jA4i7AXnehDtJZ_M8/view" group-title="HOME",CANAL IPTVONE
+#EXTINF:-1,CANAL IPTVONE
+https://drive.google.com/open?id=1ZchGmk1mOIoPGyivF1JW0s8EQA-w1PvP
 
 #EXTINF:-1 tvg-id="" tvg-name="TRO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_tro.png " group-title="Nacionales Col",TRO
 #EXTINF:-1,TRO
