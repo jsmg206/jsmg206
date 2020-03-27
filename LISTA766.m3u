@@ -1,11 +1,7 @@
 #EXTM3U
-
-#EXTINF:0,-HOME IPTVONE-
-
 EXTINF:-1 tvg-id="" tvg-name="CANAL IPTVONE" tvg-logo="https://www.dropbox.com/s/vs3ibgy3ylrvhfz/logo%20launcher%20iptv%20one.png?dl=0" group-title="HOME ",CANAL IPTVONE
 #EXTINF:-1,CANAL IPTVONE
 https://www.dropbox.com/s/msc50tr0q3kvb1c/CANA%20DE%20INICIO%20IPTVONE.mp4?dl=0
-
 #EXTINF:-1,1a_LA RED
 http://190.217.47.227:8000/play/a026
 #EXTINF:-1,1d_TVN
