@@ -5,3 +5,7 @@ https://vod-progressive.akamaized.net/exp=1585514754~acl=%2Fvimeo-prod-skyfire-s
 http://iptvactivador.online:25461/LISTAM3UGRATIS/M3UXTREAMTV/57
 #EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="" group-title="CINEMA Y SERIES ",STUDIO UNIVERSAL
 http://iptvactivador.online:25461/LISTAM3UGRATIS/M3UXTREAMTV/58
+#EXTINF:-1 tvg-id="Win Sports Básico" tvg-name="Win Sports Básico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",Win Sports Básico
+http://iptvactivador.online:25461/LISTAM3UGRATIS/M3UXTREAMTV/512
+#EXTINF:-1 tvg-id="Win Sports +" tvg-name="Win Sports +" tvg-logo="https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x600.jpg" group-title="DEPORTES",Win Sports +
+http://iptvactivador.online:25461/LISTAM3UGRATIS/M3UXTREAMTV/1645
