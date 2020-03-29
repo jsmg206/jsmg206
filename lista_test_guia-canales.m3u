@@ -397,7 +397,7 @@ http://iptvactivador.online:25461/movie/LISTAM3UGRATIS/M3UXTREAMTV/509.mp4
 http://iptvactivador.online:25461/movie/LISTAM3UGRATIS/M3UXTREAMTV/510.mp4
 #EXTINF:-1 tvg-id="" tvg-name="It: Capítulo 2 - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9oERKIVyTWpHNum3STVsAGD4ojz.jpg" group-title="PELICULAS  2019",It: Capítulo 2 - 2019
 http://iptvactivador.online:25461/movie/LISTAM3UGRATIS/M3UXTREAMTV/511.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Win Sports Básico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",Win Sports Básico
+#EXTINF:-1 tvg-id="1" tvg-name="Win Sports Básico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",Win Sports Básico
 http://iptvactivador.online:25461/LISTAM3UGRATIS/M3UXTREAMTV/512
 #EXTINF:-1 tvg-id="" tvg-name="ECUADOR: ECUAVISA HD" tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/ecuavisa.jpg" group-title="POR PAISES ",ECUADOR: ECUAVISA HD
 http://iptvactivador.online:25461/LISTAM3UGRATIS/M3UXTREAMTV/513
@@ -639,7 +639,7 @@ http://iptvactivador.online:25461/LISTAM3UGRATIS/M3UXTREAMTV/1563
 http://iptvactivador.online:25461/movie/LISTAM3UGRATIS/M3UXTREAMTV/1565.mp4
 #EXTINF:-1 tvg-id="" tvg-name="LUCHA LIBRE AAA" tvg-logo="https://cdn.mitvstatic.com/programs/hn_lucha-filler-lucha-libre-aaa_p_m.jpg" group-title="24/7",LUCHA LIBRE AAA
 http://iptvactivador.online:25461/LISTAM3UGRATIS/M3UXTREAMTV/1643
-#EXTINF:-1 tvg-id="" tvg-name="Win Sports +" tvg-logo="https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x600.jpg" group-title="DEPORTES",Win Sports +
+#EXTINF:-1 tvg-id="2" tvg-name="Win Sports +" tvg-logo="https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x600.jpg" group-title="DEPORTES",Win Sports +
 http://iptvactivador.online:25461/LISTAM3UGRATIS/M3UXTREAMTV/1645
 #EXTINF:-1 tvg-id="" tvg-name="UNIMAS" tvg-logo="https://pbs.twimg.com/profile_images/665169187946364929/2y3w3T8E_400x400.jpg" group-title="ENTRETENIMIENTO",UNIMAS
 http://iptvactivador.online:25461/LISTAM3UGRATIS/M3UXTREAMTV/1707
